@@ -1,5 +1,4 @@
 # tr.io
-A functional demo of a social media site
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -12,9 +11,7 @@ A functional demo of a social media site
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-tr.io is a fully functional social media website that I 
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+tr.io is a fully functional social media website that I created to test the extent of my skills. Technically tr.io is a MEN (no angular) stack application. 
 
 ### Built With
 * [Bootstrap](https://getbootstrap.com)
